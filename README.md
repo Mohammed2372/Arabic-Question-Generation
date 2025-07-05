@@ -42,11 +42,7 @@ See the notebooks for step-by-step code and explanations. Example context and ge
 
 ## References
 
-- [Arabic-SQuAD](https://github.com/abdoelali/Arabic-SQuAD)
-- [ARCD](https://github.com/husseinmozannar/SOQAL)
-- [MLQA](https://github.com/facebookresearch/MLQA)
-- [TydiQA](https://github.com/google-research-datasets/tydiqa)
-
-## License
-
-This project is for academic and research purposes only.
+- [Arabic-SQuAD](https://www.kaggle.com/datasets/mohammed237/arabic-squad-processed)
+- [ARCD](https://www.kaggle.com/datasets/mohammed237/arcd-dataset)
+- [MLQA](https://www.kaggle.com/datasets/mohammed237/mlqa-data)
+- [TydiQA](https://www.kaggle.com/datasets/mohammed237/tydiqa-data)
