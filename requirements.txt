@@ -1,0 +1,12 @@
+transformers
+camel-tools
+rouge-score
+openpyxl
+scikit-learn
+nltk
+torch
+tokenizers
+matplotlib
+seaborn
+pandas
+numpy
