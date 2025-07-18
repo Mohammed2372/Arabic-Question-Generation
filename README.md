@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on automatic question generation and question answering in Arabic using deep learning and NLP techniques. It leverages datasets such as Arabic-SQuAD, ARCD, MLQA, and TydiQA to train and evaluate models for generating high-quality, answerable questions from Arabic context passages.
+This project focuses on automatic question generation in Arabic using deep learning and NLP techniques. It leverages datasets such as Arabic-SQuAD, ARCD, MLQA, and TydiQA to train and evaluate models for generating high-quality, answerable questions from Arabic context passages.
 
 ## Project Structure
 
