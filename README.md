@@ -13,8 +13,6 @@ This project focuses on automatic question generation in Arabic using deep learn
   - `try with another data/`: Additional experiments with ARCD and TydiQA datasets.
 - **Scripts**:
   - `test script.py`: Utility functions for text preprocessing and testing.
-- **Data**:
-  - `data/Arabic squad/`, `data/ARCD/`, `data/MLQA/`, `data/tydiqa/`: Contains all datasets used for training and evaluation in various formats (Excel, CSV).
 - **Results**:
   - `Generated Questions.pdf`, `Model test result with bert score and answerability.pdf`: Output and evaluation reports.
 
